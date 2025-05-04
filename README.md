@@ -1,2 +1,2 @@
 # Steel-Column
-Design of steel members
+Design of steel members according to EC3
